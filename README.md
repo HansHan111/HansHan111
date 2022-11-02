@@ -5,6 +5,7 @@
 <h3 align="center"> Language & Skills </h3>
 
 - Rust
+- GoLang
 - Move
 - Solidity
 - Javascript/Typescript
@@ -15,6 +16,7 @@
 - Python
 - C/C++
 - Java
+
 </div>
 
 <div align="center">
